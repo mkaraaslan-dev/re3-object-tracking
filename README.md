@@ -1,6 +1,6 @@
 # Re3 in TensorFlow
 [Re3: Real-Time Recurrent Regression Networks for Visual Tracking of Generic Objects](https://danielgordon10.github.io/pdfs/re3.pdf)<br/>
-<img src="/demo/uav_tracking.gif" height="300"/> <img src="/demo/uav_tracking.gif" height="300"/><br/>
+<img src="/demo/uav_tracking.gif" height="300"/> 
 
 <img src="/demo/sample_1.gif" height="300"/> <img src="/demo/sample_2.gif" height="300"/>
 
