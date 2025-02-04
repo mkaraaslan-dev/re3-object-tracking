@@ -1,8 +1,8 @@
 # Re3 in TensorFlow
 [Re3: Real-Time Recurrent Regression Networks for Visual Tracking of Generic Objects](https://danielgordon10.github.io/pdfs/re3.pdf)<br/>
 
-I used the re3 tracking application for drone tracking.
-<img src="/demo/uav_tracking.gif" height="300"/> 
+I used the re3 tracking application for drone tracking.<br/>
+<img src="/demo/uav_tracking.gif" height="300"/> <br/> <br/>
 
 <img src="/demo/sample_1.gif" height="300"/> <img src="/demo/sample_2.gif" height="300"/>
 
